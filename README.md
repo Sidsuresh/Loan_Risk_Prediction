@@ -4,7 +4,7 @@ A full-stack Machine Learning application that predicts the probability of a loa
 
 ## 🚀 Live Demo
 
-[Insert Link to your Streamlit Cloud Deployment Here]
+[https://loan-risk-pred.streamlit.app/]
 
 ## 🛠️ Features
 
